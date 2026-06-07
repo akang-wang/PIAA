@@ -95,13 +95,10 @@ This project is built upon the foundational work of [SCLIP](https://github.com/w
 ## 🏷️ Citation
 If you find our work useful in your research, please consider giving a star ⭐ and citing the following paper 📝.
 ```
-@misc{wang2026clsenoughmultilabelrecognition,
-      title={[CLS] is Not Enough: Multi-Label Recognition via Patch-Level Inference and Adaptive Aggregation}, 
-      author={Akang Wang and Xili Deng and Zhanxuan Hu and Yi Zhao and Yonghang Tai and Huafeng Li},
-      year={2026},
-      eprint={2605.25821},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2605.25821}, 
+@inproceedings{wang2026,
+  title={[CLS] is Not Enough: Multi-Label Recognition via Patch-Level Inference and Adaptive Aggregation},
+  author={Wang, Akang and Deng, Xili and Hu, Zhanxuan and Zhao, Yi and Tai, Yonghang and Li, Huafeng},
+  booktitle={Proceedings of the International Conference on Machine Learning},
+  year={2026}
 }
 ```
